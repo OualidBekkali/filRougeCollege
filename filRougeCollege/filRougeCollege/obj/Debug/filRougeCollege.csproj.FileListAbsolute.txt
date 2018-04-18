@@ -1,0 +1,15 @@
+C:\Users\59013-62-09\source\repos\filRougeCollege\filRougeCollege\bin\Debug\filRougeCollege.exe.config
+C:\Users\59013-62-09\source\repos\filRougeCollege\filRougeCollege\bin\Debug\filRougeCollege.exe
+C:\Users\59013-62-09\source\repos\filRougeCollege\filRougeCollege\bin\Debug\filRougeCollege.pdb
+C:\Users\59013-62-09\source\repos\filRougeCollege\filRougeCollege\obj\Debug\filRougeCollege.csprojResolveAssemblyReference.cache
+C:\Users\59013-62-09\source\repos\filRougeCollege\filRougeCollege\obj\Debug\filRougeCollege.Properties.Resources.resources
+C:\Users\59013-62-09\source\repos\filRougeCollege\filRougeCollege\obj\Debug\filRougeCollege.csproj.GenerateResource.Cache
+C:\Users\59013-62-09\source\repos\filRougeCollege\filRougeCollege\obj\Debug\filRougeCollege.csproj.CoreCompileInputs.cache
+C:\Users\59013-62-09\source\repos\filRougeCollege\filRougeCollege\obj\Debug\filRougeCollege.exe
+C:\Users\59013-62-09\source\repos\filRougeCollege\filRougeCollege\obj\Debug\filRougeCollege.pdb
+C:\Users\59013-62-09\source\repos\filRougeCollege\filRougeCollege\obj\Debug\filRougeCollege.ENSEIGNANT.resources
+C:\Users\59013-62-09\source\repos\filRougeCollege\filRougeCollege\obj\Debug\filRougeCollege.etudiant.resources
+C:\Users\59013-62-09\source\repos\filRougeCollege\filRougeCollege\obj\Debug\filRougeCollege.cours.resources
+C:\Users\59013-62-09\source\repos\filRougeCollege\filRougeCollege\obj\Debug\filRougeCollege.salles.resources
+C:\Users\59013-62-09\source\repos\filRougeCollege\filRougeCollege\obj\Debug\filRougeCollege.departement.resources
+C:\Users\59013-62-09\source\repos\filRougeCollege\filRougeCollege\obj\Debug\filRougeCollege.accueil.resources
